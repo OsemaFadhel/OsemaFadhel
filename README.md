@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazzel(Osema)👨🏽‍💻</h1>
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <h3 align="center">I'm a student at 42 Roma.</h3>
 
 - 🔭 I’m currently working on **Libft**
