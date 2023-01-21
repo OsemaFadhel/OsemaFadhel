@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fazzel(Osema)👨🏽‍💻</h1>
 <h3 align="center">I'm a student at 42 Roma.</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingfazzel)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingfazzel" alt="kingfazzel" /></a> </p>
 
 - 🔭 I’m currently working on **Libft**
