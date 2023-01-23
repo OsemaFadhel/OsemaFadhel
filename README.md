@@ -4,6 +4,14 @@
 
 <h3 align="center">I'm a student at 42 Roma.</h3>
 
+<h3 align="left"> <a href="https://github.com/KingFazzel">
+				<img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/stats?cursusId=9&coalitionId=171">
+			</a> </h3> 
+
+<h3 align="right"> <a href="https://github.com/KingFazzel">
+				<img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/stats?cursusId=21&coalitionId=124">
+			</a> </h3>
+
 - 🔭 I’m currently working on **Libft**
 
 - 🌱 I’m currently learning **C, C++**
