@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osema👨🏽‍💻</h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
 <h3 align="center">I'm a student at 42 Roma.</h3>
 
 <h3 align="left"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/stats?cursusId=9&coalitionId=171" alt="ofadhel's 42 stats" /></a> </h3> 
