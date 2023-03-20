@@ -20,7 +20,7 @@
 <a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osema fadhel" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsemaFadhel&layout=compact&theme=transparent)](https://github.com/OsemaFadhel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsemaFadhel&layout=compact&theme=transparent)
 ![Osema's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsemaFadhel&show_icons=true&theme=transparent)
 
 
