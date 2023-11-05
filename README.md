@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osema👨🏽‍💻</h1>
 
+![](https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/giphy.gif)
+
 <h3 align="center">I'm a student at 42 Roma</h3>
 
 - 🔭 I’m currently working on [Minishell](https://www.youtube.com/watch?v=I7aNNHX7Ohc&pp=ygUXc2VpIHN0YXRvIGNyaW5nZWxvbGxhdG8%3D)
