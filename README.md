@@ -14,7 +14,7 @@
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> <a href="https://www.cloudskillsboost.google/public_profiles/3779024f-fae6-49a8-9430-003b65de5349"><img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/google-cloud.png" alt="g_cloud" width="55" height="35"/> </a> 
-</a> <a href="https://tryhackme.com/badge/2390151"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe"> </a> 
+</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe"> </a> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
