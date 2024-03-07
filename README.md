@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on [CPP projects](https://www.youtube.com/watch?v=I7aNNHX7Ohc&pp=ygUXc2VpIHN0YXRvIGNyaW5nZWxvbGxhdG8%3D)
+- 🔭 I’m currently working on [CPP projects](https://github.com/OsemaFadhel/CPP42)
 
 - 🌱 I’m currently learning **C, C++**
 
