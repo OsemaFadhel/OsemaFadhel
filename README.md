@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="20" height="20"/>  [Projects](https://github.com/OsemaFadhel/CPP42)
+- 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42) 
 
 - 🌱 I’m currently learning **C, C++, Unix, Docker**
 
@@ -22,7 +22,7 @@
 </a> <a href="https://www.cloudskillsboost.google/public_profiles/3779024f-fae6-49a8-9430-003b65de5349"><img src="https://skillicons.dev/icons?i=gcp" alt="g_cloud" width="50" height="50"/> </a>
 </p>
 <p align="center"> 
-</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="70"> </a> 
+</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="60"> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
