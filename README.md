@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on [CPP projects](https://github.com/OsemaFadhel/CPP42)
+- 🔭 I’m currently working on <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="20" height="20"/>  [Projects](https://github.com/OsemaFadhel/CPP42)
 
 - 🌱 I’m currently learning **C, C++, Unix, Docker**
 
