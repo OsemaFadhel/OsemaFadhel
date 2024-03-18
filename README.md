@@ -9,21 +9,20 @@
 - 🌱 I’m currently learning **C, C++, Unix, Docker**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/> 
 </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="50" height="50"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="50" height="50"/> 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> 
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/>
-  </p>
 </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ai" alt="illustrator" width="50" height="50"/> 
 </a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="50" height="50"/> 
 </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="50" height="50"/> 
 </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="50" height="50"/> 
 </a> <a href="https://www.cloudskillsboost.google/public_profiles/3779024f-fae6-49a8-9430-003b65de5349"><img src="https://skillicons.dev/icons?i=gcp" alt="g_cloud" width="50" height="50"/> </a>
 </p>
-
-</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe"> </a> 
+<p align="center"> 
+</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="70"> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
