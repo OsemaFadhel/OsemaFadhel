@@ -16,7 +16,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.OSEMAFADHELWAKA }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_DAYS_OF_WEEK : "TRUE"
-          SHOW_OS : "TRUE"
-          SHOW_LANGUAGE_PER_REPO : "TRUE"
-          
