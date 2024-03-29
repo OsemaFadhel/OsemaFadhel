@@ -37,6 +37,14 @@ No activity tracked
 <a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="osema fadhel" height="50" width="50" /></a>
 </p>
 
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 <h4 align="right">Visitor Count⬇</h4>
 
 <h4 align="right"> 
