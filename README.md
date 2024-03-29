@@ -1,11 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <h1 align="center">Hi 👋, I'm Osema👨🏽‍💻</h1>
 
 <h2 align="center"> <a href="https://www.showmyip.com/"><img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/cybersecurity%20framework.webp" /></a> </h2> 
