@@ -15,3 +15,4 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.OSEMAFADHELWAKA }}
+          SHOW_DAYS_OF_WEEK : "TRUE"
