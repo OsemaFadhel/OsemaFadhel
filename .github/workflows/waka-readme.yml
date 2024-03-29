@@ -16,3 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.OSEMAFADHELWAKA }}
           SHOW_DAYS_OF_WEEK : "TRUE"
+          SHOW_OS : "TRUE"
+          SHOW_LANGUAGE_PER_REPO : "TRUE"
+          
