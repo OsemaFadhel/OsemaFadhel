@@ -34,7 +34,7 @@
 
 > 📦 23.7 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
  > 
@@ -94,7 +94,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 13:21:16 UTC
+ Last Updated on 01/04/2024 13:38:00 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
