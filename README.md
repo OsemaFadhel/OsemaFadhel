@@ -8,14 +8,15 @@
 
 - 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42) 
 
-- 🌱 I’m currently learning **C, C++, Unix, Docker**
+- 🌱 I’m currently learning **C, C++, Unix, Docker**, Assembly
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> 
 </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/> 
 </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="50" height="50"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="50" height="50"/> 
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> 
+</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/>
+</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/> 
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/>
 </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ai" alt="illustrator" width="50" height="50"/> 
 </a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="50" height="50"/> 
