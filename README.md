@@ -37,8 +37,6 @@
 
 > 📦 42.0 kB Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -104,7 +102,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2024 23:37:40 UTC
+ Last Updated on 22/04/2024 01:13:28 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
