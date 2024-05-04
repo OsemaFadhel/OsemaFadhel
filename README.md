@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42) 
 
-- 🌱 I’m currently learning **C, C++, Unix, Docker, Assembly**
+- 🌱 I’m currently learning **C, C++, Java, Unix, Docker, Assembly**
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> 
