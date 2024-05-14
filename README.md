@@ -72,17 +72,16 @@ Sunday                   104 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     56 mins             ████████████████████████░   97.92 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-42-Java                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -98,7 +97,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2024 22:02:02 UTC
+ Last Updated on 14/05/2024 23:01:38 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
