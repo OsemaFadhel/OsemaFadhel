@@ -38,8 +38,6 @@
 
 > 📦 46.3 kB Used in GitHub's Storage 
  > 
-> 🏆 146 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -106,7 +104,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024 23:01:52 UTC
+ Last Updated on 12/06/2024 00:29:10 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
