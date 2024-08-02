@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 46.6 kB Used in GitHub's Storage 
  > 
 > 🏆 169 Contributions in the Year 2024
  > 
@@ -98,7 +98,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2024 17:31:32 UTC
+ Last Updated on 02/08/2024 17:35:31 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
