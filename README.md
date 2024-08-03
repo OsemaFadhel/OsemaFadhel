@@ -2,7 +2,10 @@
 
 <!-- <h2 align="center"> <a href="https://www.showmyip.com/"><img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/cybersecurity%20framework.webp" /></a> </h2> -->
 
-<h2 align="center"> <img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/1712000100607257.gif" width="900" height="380" /> </h2>
+<!-- <h2 align="center"> <img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/1712000100607257.gif" width="900" height="380" /> </h2> -->
+
+<h2 align="center"> <img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/tumblr_nv2fdyCF5y1tile93o1_500.gif" width="800" height="380" /> </h2>
+
 
 <h2 align="center">I'm a student at 42 Roma</h3>
 
