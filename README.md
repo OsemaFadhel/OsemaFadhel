@@ -9,7 +9,7 @@
 
 <h2 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42) 
+- 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42), [ft_irc](https://github.com/OsemaFadhel/ft_irc)
 
 - 🌱 I’m currently learning **C, C++, Java, Unix, Docker, Assembly**
 
