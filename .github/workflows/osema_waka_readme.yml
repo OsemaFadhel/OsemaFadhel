@@ -15,10 +15,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.OSEMAFADHELWAKA }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "True"
-          SHOW_TOTAL_CODE_TIME : "True"
+          SHOW_TOTAL_CODE_TIME : "False"
           SHOW_LANGUAGE : "True"
           SHOW_SHORT_INFO : "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS : "False"
           LOCALE: "en"
