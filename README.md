@@ -9,9 +9,12 @@
 
 <h2 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on [CPP Projects](https://github.com/OsemaFadhel/CPP42), [ft_irc](https://github.com/OsemaFadhel/ft_irc)
+- 🔭 I’m currently working on [ft_irc](https://github.com/OsemaFadhel/ft_irc)
 
 - 🌱 I’m currently learning **C, C++, Java, Unix, Docker, Assembly**
+
+<!-- <h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra.png" width="800" height="380" /> </h2> -->
+
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> 
