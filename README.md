@@ -81,16 +81,17 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 25 mins       █████████████████████████   99.50 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ft_irc                   2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -106,7 +107,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2024 01:02:43 UTC
+ Last Updated on 03/10/2024 12:26:17 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
