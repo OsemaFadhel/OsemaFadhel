@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [ft_irc](https://github.com/OsemaFadhel/ft_irc)
 
-- 🌱 I’m currently learning **C, C++, Java, Unix, Docker, Assembly**
+- 🌱 I’m currently learning **C, C++, Python, Javascript, Docker, Assembly**
 
 <!-- <h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra.png" width="800" height="380" /> </h2> -->
 
@@ -22,6 +22,7 @@
 </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="50" height="50"/> 
 </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="50" height="50"/> 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/>
+ </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/> 
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> 
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/> <br>
