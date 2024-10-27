@@ -25,12 +25,14 @@
  </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/> 
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> 
-</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/> <br>
-</a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ai" alt="illustrator" width="50" height="50"/> 
+</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> 
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> <br>
+</a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/> 
+</a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/> 
+</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/>
 </a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="50" height="50"/> 
 </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="50" height="50"/> 
 </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="50" height="50"/> 
-</a> <a href="https://www.cloudskillsboost.google/public_profiles/3779024f-fae6-49a8-9430-003b65de5349"><img src="https://skillicons.dev/icons?i=gcp" alt="g_cloud" width="50" height="50"/> </a>
 </p>
 <p align="center"> 
 </a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="60"> </a> 
