@@ -9,7 +9,7 @@
 
 <h2 align="center">I'm a student at 42 Roma</h3>
 
-- 🔭 I’m currently working on [ft_irc](https://github.com/OsemaFadhel/ft_irc)
+- 🔭 I’m currently working on a online Pong Game
 
 - 🌱 I’m currently learning **C, C++, Python, Javascript, Docker, Assembly**
 
