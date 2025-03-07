@@ -37,16 +37,15 @@
 <p align="center"> 
 </a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="60"> </a> 
 
-<h2 align="leftt">Connect with me:</h3>
-<p align="left">
-<a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="osema fadhel" height="50" width="50" /></a>
-</p>
-
-
 <p align="center">
   <a href="https://leetcode.com/OsemaFadhel/">
     <img src="https://leetcard.jacoblin.cool/OsemaFadhel?theme=nord&font=Anek%20Tamil&ext=activity" alt="LeetCode Stats">
   </a>
+</p>
+
+<h2 align="leftt">Connect with me:</h3>
+<p align="left">
+<a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="osema fadhel" height="50" width="50" /></a>
 </p>
 
 <!--START_SECTION:waka-->
