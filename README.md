@@ -34,7 +34,11 @@
 </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="50" height="50"/> 
 </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="50" height="50"/> 
 </p>
- 
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="fazzthm" />
+</p>
+
 <p align="center">
   <a href="https://leetcode.com/OsemaFadhel/">
     <img src="https://leetcard.jacoblin.cool/OsemaFadhel?theme=nord&font=Anek%20Tamil&ext=activity" alt="LeetCode Stats">
