@@ -35,7 +35,6 @@
 </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="50" height="50"/> 
 </p>
 <p align="center"> 
-</a> <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="TryHackMe" width="250" height="60"> </a> 
 
 <p align="center">
   <a href="https://leetcode.com/OsemaFadhel/">
