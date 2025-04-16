@@ -18,21 +18,21 @@
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="center"> 
-</a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/> 
-</a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="50" height="50"/> 
-</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="50" height="50"/> 
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/>
- </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50"/> 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> <br>
-</a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50"/> 
-</a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50"/> 
-</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="50" height="50"/>
-</a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="50" height="50"/> 
-</a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="50" height="50"/> 
-</a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="50" height="50"/> 
+</a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+</a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="40" height="40"/> 
+</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="40" height="40"/> 
+</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+ </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
+</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
+</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <br>
+</a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> 
+</a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
+</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="40" height="40"/>
+</a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> 
+</a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> 
+</a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> 
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 <h2 align="leftt">Connect with me:</h3>
 <p align="left">
-<a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="osema fadhel" height="50" width="50" /></a>
+<a href="https://it.linkedin.com/in/osema-fadhel-7a1996174?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="osema fadhel" height="40" width="40" /></a>
 </p>
 
 
@@ -95,7 +95,7 @@ Sunday                   122 commits         ████░░░░░░░�
 💬 Programming Languages: 
 C++                      24 mins             ██████████████████████░░░   86.46 % 
 Singularity              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
