@@ -93,17 +93,16 @@ Sunday                   122 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C                        16 mins             █████████████████████████   98.90 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ft_ping                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -119,7 +118,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 00:55:55 UTC
+ Last Updated on 16/05/2025 00:57:59 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
