@@ -9,7 +9,7 @@
 
 <h2 align="center">I'm a CS student at 42 Rome</h3>
 
-- 🔭 I’m currently working on a online Pong Game
+- 🔭 I’m currently working on a C++ project
 
 - 🌱 I’m currently learning **C, C++, Python, Javascript, Docker, Assembly**
 
