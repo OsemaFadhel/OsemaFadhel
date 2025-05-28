@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="fazzthm" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="fazzthm" href="https://tryhackme.com/p/fazzel" />
 </p>
 
 <p align="center">
