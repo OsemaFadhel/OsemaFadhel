@@ -93,17 +93,16 @@ Sunday                   122 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   35 mins             ███████████████████████░░   92.36 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web-scraper              38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -119,7 +118,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2025 01:04:02 UTC
+ Last Updated on 09/06/2025 01:01:57 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
