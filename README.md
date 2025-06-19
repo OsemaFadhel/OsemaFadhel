@@ -35,7 +35,7 @@
 </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> 
 </p>
 
-<h3 align="leftt">Tryhackme one of my favorite site to learn new things in cybersecurity</h3>
+<h3 align="leftt">Tryhackme one of my favorite platform to learn new things in cybersecurity</h3>
 <p align="center">
 <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="fazzthm"  />
 </p>
