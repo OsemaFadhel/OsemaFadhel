@@ -94,18 +94,16 @@ Sunday                   125 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   33 mins             ██████████████████████░░░   86.86 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ctfduk                   33 mins             ██████████████████████░░░   86.81 % 
-yakbase-f70d7c3a-5267-4255 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -121,7 +119,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 01:07:19 UTC
+ Last Updated on 29/07/2025 01:09:46 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
