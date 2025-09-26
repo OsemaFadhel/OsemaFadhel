@@ -7,7 +7,7 @@
 <h2 align="center"> <img src="https://github.com/OsemaFadhel/OsemaFadhel/blob/main/img/tumblr_nv2fdyCF5y1tile93o1_500.gif" width="800" height="380" /> </h2>
 
 
-<h2 align="center">I'm a CS student at Sapienza and 42 Rome</h3>
+<h2 align="center">I'm a CS student at Sapienza University and 42 Rome</h3>
 
 <!-- <h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra.png" width="800" height="380" /> </h2> -->
 
