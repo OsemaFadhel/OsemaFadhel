@@ -55,9 +55,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 147.7 kB Used in GitHub's Storage 
+> 📦 147.9 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2025
+> 🏆 194 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,6 +65,45 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌆 Daytime                459 commits         █████████████░░░░░░░░░░░░   52.82 % 
+🌃 Evening                294 commits         ████████░░░░░░░░░░░░░░░░░   33.83 % 
+🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Wednesday                141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Friday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Saturday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Sunday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -78,7 +117,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 00:53:05 UTC
+ Last Updated on 04/10/2025 00:50:44 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
