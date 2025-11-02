@@ -61,9 +61,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -92,20 +92,16 @@ Sunday                   134 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Dart                     14 mins             ████████████████████████░   94.71 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Walksy                   14 mins             █████████████████████████   98.03 % 
-ft_ping                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -121,7 +117,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 01:00:08 UTC
+ Last Updated on 02/11/2025 01:00:50 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
