@@ -61,49 +61,10 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 Daytime                489 commits         █████████████░░░░░░░░░░░░   52.75 % 
-🌃 Evening                304 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Saturday                 133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Sunday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -117,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 01:25:33 UTC
+ Last Updated on 02/02/2026 01:17:28 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
