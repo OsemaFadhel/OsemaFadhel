@@ -12,24 +12,27 @@
 <!-- <h2 align="center"> <img src="https://github.com/OsemaFadhel/42-Cursus/blob/main/intra.png" width="800" height="380" /> </h2> -->
 
 
-<h2 align="left">Languages and Tools:</h3>
-<p align="center"> 
-</a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
-</a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="40" height="40"/> 
-</a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=py" alt="c" width="40" height="40"/> 
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
- </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <br>
-</a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> 
-</a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
-</a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="linux" width="40" height="40"/>
-</a> <a href="https://www.photoshop.com/enwhat" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> 
-</a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> 
-</a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> 
-</p>
+<h2 align="left">Languages and Tools:</h2>
+
+<table align="center">
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a></td>
+    <td><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a></td>
+    <td><a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a></td>
+    <td><a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a></td>
+    <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a></td>
+    <td><a href="https://www.photoshop.com/"><img src="https://skillicons.dev/icons?i=ps" width="40" height="40"/></a></td>
+    <td><a href="https://www.adobe.com/products/xd.html"><img src="https://skillicons.dev/icons?i=xd" width="40" height="40"/></a></td>
+    <td><a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
 <h3 align="leftt">Tryhackme one of my favorite platform to learn new things in cybersecurity</h3>
 <p align="center">
