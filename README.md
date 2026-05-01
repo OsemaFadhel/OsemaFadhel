@@ -60,7 +60,7 @@
 
 > 📦 221.4 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 88 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -110,17 +110,17 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-C                        14 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C                        14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 30/04/2026 00:25:58 UTC
+ Last Updated on 01/05/2026 00:27:01 UTC
 <!--END_SECTION:waka-->
 
 <h4 align="right">Visitor Count⬇</h4>
