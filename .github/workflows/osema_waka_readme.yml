@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.OSEMAFADHELWAKA }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_TOTAL_CODE_TIME : "False"
           SHOW_LANGUAGE : "True"
           SHOW_SHORT_INFO : "True"
