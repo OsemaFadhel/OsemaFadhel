@@ -39,13 +39,14 @@
 <a href="https://tryhackme.com/p/fazzel"><img src="https://tryhackme-badges.s3.amazonaws.com/fazzel.png" alt="fazzthm"  />
 </p>
 
-
+<!--
 <h3 align="leftt">In my free time I like to challenge myself and solve leetcode problems</h3>
 <p align="center">
   <a href="https://leetcode.com/OsemaFadhel/">
     <img src="https://leetcard.jacoblin.cool/OsemaFadhel?theme=nord&font=Anek%20Tamil&ext=activity" alt="LeetCode Stats">
   </a>
-</p>
+</p> 
+-->
 
 <h2 align="leftt">Connect with me:</h2>
 <p align="left">
